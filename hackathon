@@ -1,1 +1,53 @@
+<html>
+</background>
+<meta charset="utf-8">
+<body bgcolor="#66b78f"; 
+	align="center"; style="margin:20px 200px 200px 100px"
+	background-image="url(https://scontent-fra3-1.xx.fbcdn.net/t31.0-8/14542382_518558118340288_8568515083593794494_o.jpg)"
+	min-height="100%"
+	background-position="center"
+	background-size="cover">
+		
+<span style="color:white">
+<font face="calibri">
+<header>Hackathon - Connected Health</header> 
+<h1><B> Aeris <B></h1>
+<h2> Solution pour limite l'impact de la pollution sur votre corps</h2>
+
+<img alt="Day one"
+	src="https://scontent-fra3-1.xx.fbcdn.net/t31.0-8/14542382_518558118340288_8568515083593794494_o.jpg"
+	align="center"
+	width="900"
+	height="600"> 
+
+<style>
+p {
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+</style>
+<h2 align="left">Concrêtement l'applicacion Aeris propose 2 espaces</h2>
+
+	<p align="left"> un espace découverte qui permet de proposer des suggestions de lieux à visiter en famille ou entre amis et selon un profil donné d’utilisateur. Ces suggestions sont proposées en fonction d’une cartographie des zones les moins polluées de la ville qui s’adaptent en temps réel à partir de données satellitaires. <q>Par exemple, je suis mère de famille avec un enfant asmatique, je ne sait pas quoi faire ce weekend, l’application me propose d’aller faire un tour à l’observatoire de nice où l’indice de pollution est très faible à 16h aujourd’hui. </q></p>
+		
+			
+	 <p align="left"> Le second espace permet à l’utilisateur de programmer une séance de sport. Celui-ci indiquera la distance qu’il souhaite effectuer en courant ou à vélo et l’application à partir d’un lieu de départ sélectionné, lui proposera le parcours qui l’exposera le moins possible aux pollutions urbaines. L’idée est donc de réaliser une activité réellement positive pour l’organisme, sur les hauteurs de nice plus saines plutôt que le coureur rejoigne la promenade des Anglais extrêmement polluée. </p> 
+		
+
+
+<h2> Les avantages de notre solution </h2>
+
+<ol align="left">
+	<li> Faire de la ville un nouveau terrain de jeux, en favorisant les espaces verts tout en sensibilisant les riverains à  la pollution</li>
+	<li> Proposer des solutions de préventions des risques efficaces aux inssuffisant respiratoires en les alertant à travers un code couleur basé sur le AQI </li>
+	<li> Une prévention des risques liés à la pollution qui permet une réduction des dépenses de santé</li>
+	<li> Une utilisation des datas d’Aeris en vue d’améliorer l’environnement urbain</li>
+</ol>
+</p>
+
+<h2>Enfin, d’après le magasine le Point c’est près de 17 700 morts qui pourraient être évités si le taux de la particule PM2,5 était respecté en France. 
+</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WnHnSHCWXzE" frameborder="0" allowfullscreen></iframe>
+<h2>coloc neuroplanete </h2>
 
